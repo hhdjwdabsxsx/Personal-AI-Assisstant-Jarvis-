@@ -1,0 +1,1 @@
+random_text = "This is a random text."
